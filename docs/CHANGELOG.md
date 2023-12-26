@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/lpmagnan/test-semRelease/compare/v1.0.3...v1.1.0) (2023-12-26)
+
+
+### Features
+
+* this is a greate on ([45f3fbc](https://github.com/lpmagnan/test-semRelease/commit/45f3fbce275f25cc2ef2de95098e9a9c3c4d9f31))
+
 ## [1.0.3](https://github.com/lpmagnan/test-semRelease/compare/v1.0.2...v1.0.3) (2023-12-26)
 
 
