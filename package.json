@@ -1,7 +1,7 @@
 {
   "name": "test-semrelease",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "test lpm",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.3"
+    "@semantic-release/changelog": "^6.0.3",
+    "semantic-release": "^22.0.12"
   }
 }
