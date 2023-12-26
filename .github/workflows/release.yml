@@ -26,7 +26,9 @@ jobs:
       - run: npm clean-install
       - run: npm audit signatures
       - run: npm install --save-dev semantic-release
-      - run: npm -g install @semantic-release/git semantic-release && semantic-release && @semantic-release/changelog -D
+      - run: npm install @semantic-release/git
+      - run: npm install @semantic-release/github
+      - run: npm install @semantic-release/changelog
       # pinned version updated automatically by Renovate.
       # details at https://semantic-release.gitbook.io/semantic-release/usage/installation#global-installation
       - run: npx semantic-release@21.0.2
