@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/lpmagnan/test-semRelease/compare/v1.1.0...v1.2.0) (2023-12-27)
+
+
+### Features
+
+* move changelog file ([534b2fc](https://github.com/lpmagnan/test-semRelease/commit/534b2fc9d2b47095cd92b868298deaf5f674ecc6))
+
 # [1.1.0](https://github.com/lpmagnan/test-semRelease/compare/v1.0.3...v1.1.0) (2023-12-26)
 
 
